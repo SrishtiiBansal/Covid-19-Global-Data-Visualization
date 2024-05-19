@@ -19,3 +19,5 @@ To access the interactive dashboard and explore the COVID-19 data visualization 
 2. Ensure you have Tableau installed on your system.
 3. Open the Tableau workbook provided in the repository.
 4. Use the interactive features such as filters to explore the data.
+
+## Dashboard Link : https://public.tableau.com/views/COVID-19GlobalDataVisualizationandAnalysisPlatform/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
